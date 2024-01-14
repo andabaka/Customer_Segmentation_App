@@ -23,5 +23,5 @@ Required packages (install using install.packages(c("shiny", "shinythemes", "shi
 # License
 This project is licensed under the MIT License.
 
-Acknowledgments
+# Acknowledgments
 - Data source: [Link to Mall Customer Database](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
