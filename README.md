@@ -16,12 +16,12 @@ R and RStudio installed.
 Required packages (install using install.packages(c("shiny", "shinythemes", "shinyWidgets", "tidyverse", "tidyquant", "broom", "umap", "ggrepel", "plotly", "DT", "dplyr"))).
 
 # Usage
-Access the app through the provided [link](https://mandabaka.shinyapps.io/customer/) or navigate to https://mandabaka.shinyapps.io/customer/ in your browser.
-Interact with the controls to explore different clusters and customer characteristics.
-Gain insights into the identified customer segments and use this information for targeted marketing strategies.
+- Access the app through the provided [link](https://mandabaka.shinyapps.io/customer/) or navigate to https://mandabaka.shinyapps.io/customer/ in your browser.
+- Interact with the controls to explore different clusters and customer characteristics.
+- Gain insights into the identified customer segments and use this information for targeted marketing strategies.
 
 # License
 This project is licensed under the MIT License.
 
 Acknowledgments
-Data source: [Link to Mall Customer Database](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
+- Data source: [Link to Mall Customer Database](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
